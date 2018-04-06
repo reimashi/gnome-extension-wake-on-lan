@@ -1,0 +1,10 @@
+# IDE's
+.idea
+
+# Code files
+node_modules
+dist/code.js
+tools/gjs.js
+yarn.lock
+yarn-error.log
+package-lock.json
